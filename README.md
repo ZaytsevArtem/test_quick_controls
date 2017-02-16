@@ -1,5 +1,4 @@
 <img src="page.png" align="right" />
-![Page](page.png "Page")
 # test_quick_controls
 This is the test source project of a GUI application.
 
