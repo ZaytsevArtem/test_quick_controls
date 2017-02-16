@@ -34,7 +34,7 @@ Thanks to my mother and father for that I'm so brilliantly undisputedly great ))
 
 ## Unlicense
 ![Unlicense](http://unlicense.org/pd-icon.png "Unlicense")
-![Unlicense](https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg "Unlicense")
+![Unlicense](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/PD-icon.svg/200px-PD-icon.svg.png "Unlicense")
 The software is free, in all senses of the word. For further details see UNLICENSE.
 
 ## Changelog
