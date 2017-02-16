@@ -31,11 +31,9 @@ The versions used during development: QT 5.8.0, Python 3.6, PyQT 5.7.1, SIP 4.19
 Thanks to my mother and father for that I'm so brilliantly undisputedly great )))
 
 ## License
-[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Unlicense](http://unlicense.org/pd-icon.png)
 
-To the extent possible under law, [Zaytsev Artem](http://github.com/ZaytsevArtem/) has waived all copyright and related or neighboring rights to this work.
-
-See the LICENSE file for details.
+The software is free, in all senses of the word. For further details see UNLICENSE.
 
 ## Version history
 * 2017.02.17. 1.0. Initial version
