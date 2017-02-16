@@ -28,7 +28,7 @@ The versions used during development: QT 5.8.0, Python 3.6, PyQT 5.7.1, SIP 4.19
 [Project homepage](http://github.com/ZaytsevArtem/test_quick_controls)
 
 ## Acknowledgments
-Thanks to my mother and father that I'm so great )))
+Thanks to my mother and father for that I'm so brilliantly undisputedly great )))
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -38,6 +38,4 @@ To the extent possible under law, [Zaytsev Artem](http://github.com/ZaytsevArtem
 See the LICENSE file for details.
 
 ## Version history
-* 2017.02.17. 1.0
-
-Initial version
+* 2017.02.17. 1.0. Initial version
