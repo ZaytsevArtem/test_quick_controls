@@ -32,9 +32,10 @@ The versions used during development: QT 5.8.0, Python 3.6, PyQT 5.7.1, SIP 4.19
 ## Acknowledgments
 Thanks to my mother and father for that I'm so brilliantly undisputedly great )))
 
-## License
+## Unlicense
 ![Unlicense](http://unlicense.org/pd-icon.png "Unlicense")
+![Unlicense](https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg "Unlicense")
 The software is free, in all senses of the word. For further details see UNLICENSE.
 
-## Version history
+## Changelog
 * 2017.02.17. 1.0. Initial version
