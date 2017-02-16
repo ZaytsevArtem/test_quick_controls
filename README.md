@@ -21,7 +21,7 @@ git clone https://github.com/ZaytsevArtem/test_quick_controls/
 
 3. Compile and run the project application.
 
-As the prohect contains the python code, it is supposed, that there installed: Python, PyQT, SIP.
+As the prohect contains the python code, it is supposed, that there are installed: Python, PyQT, SIP.
 The versions used during development: QT 5.8.0, Python 3.6, PyQT 5.7.1, SIP 4.19.
 
 
