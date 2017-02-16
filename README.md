@@ -13,7 +13,9 @@ To install the project apply the following steps:
 
 1. Clone the source code using git:
 
-git clone https://github.com/ZaytsevArtem/test_quick_controls/
+  ```
+  git clone https://github.com/ZaytsevArtem/test_quick_controls/
+  ```
 
 2. Open the 'test_quick_controls.pro' project file in QT Creator application.
 
@@ -31,7 +33,7 @@ The versions used during development: QT 5.8.0, Python 3.6, PyQT 5.7.1, SIP 4.19
 Thanks to my mother and father for that I'm so brilliantly undisputedly great )))
 
 ## License
-![Unlicense](http://unlicense.org/pd-icon.png)
+![Unlicense](http://unlicense.org/pd-icon.png "Unlicense")
 The software is free, in all senses of the word. For further details see UNLICENSE.
 
 ## Version history
